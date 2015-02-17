@@ -26,7 +26,7 @@ gulp.task('default', ['sass', 'server', 'watch']);
 
 gulp.task('server', function() {
     plugins.connect.server({
-        root: '.',
+        root: [__dirname+'/'],
         port: 8000,
         livereload: true
     });
