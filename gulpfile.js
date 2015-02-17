@@ -3,13 +3,13 @@ var plugins = require('gulp-load-plugins')();
 
 gulp.task('sass', function() {
   return gulp.src('./sass/**/*.{scss,sass}')
-      .pipe(plugins.sass())
+      .pipe(plugins.sass({indentedSyntax: true}))
       .pipe(gulp.dest('./css'));
 });
 
 gulp.task('sass:dist', function() {
   return gulp.src('./sass/**/*.{scss,sass}')
-      .pipe(plugins.sass({outputStyle: 'compressed'}))
+      .pipe(plugins.sass({indentedSyntax: true, outputStyle: 'compressed'}))
       .pipe(gulp.dest('./dist/css'));
 });
 
