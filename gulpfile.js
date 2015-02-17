@@ -33,9 +33,5 @@ gulp.task('server', function() {
 });
 
 gulp.task('watch', function() {
-  gulp.watch('**/*.{js,css,html}', function() {
-    gulp.src('**/*.{js,css,html}')
-        .pipe(plugins.connect.reload());
-  });
   gulp.watch('**/*.{sass,scss}', ['sass']);
 });
