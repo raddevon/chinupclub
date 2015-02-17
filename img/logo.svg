@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="82px" height="83px" viewBox="0 0 82 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Logo</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Logo" sketch:type="MSArtboardGroup" transform="translate(-15.000000, -19.000000)" fill="#FF8008">
+            <path d="M30.3601002,24.1308952 C25.9449378,24.1308952 22.3657415,27.713284 22.3657415,32.13278 L22.3657415,86.1824095 C22.3657415,90.6017284 25.948142,94.1842943 30.3674012,94.1842943 L79.4870186,94.1842943 C83.9062132,94.1842943 88.322136,90.707941 89.0955544,86.356169 C89.0955544,86.356169 91.9257337,78.2775235 87.4886816,75.88096 C80.1891411,71.9382947 83.7631864,62.7862133 84.1213453,50.7625881 C84.5590207,36.0695469 84.2876873,32.1356265 84.2876873,32.1356265 C84.1958201,27.7147355 80.5341745,24.1308952 76.1269883,24.1308952 L30.3601002,24.1308952 Z" id="Rectangle-1" sketch:type="MSShapeGroup" transform="translate(56.365741, 59.130895) rotate(-19.000000) translate(-56.365741, -59.130895) "></path>
+        </g>
+    </g>
+</svg>
