@@ -17,6 +17,10 @@ p {
   margin-bottom: 20px;
 }
 
+img {
+  max-width: 100%;
+}
+
 header .jumbotron {
   min-height: 75vh;
   background-image: url(../img/sunrise.jpg);
